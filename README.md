@@ -17,7 +17,7 @@ O bien, cargar el archivo directamente en GHCi:
 ghci inventario.hs
 ```
 
-##Como ejecutarlo
+## Como ejecutarlo
 Ejecuta el programa compilado con:
 
 ```bash
